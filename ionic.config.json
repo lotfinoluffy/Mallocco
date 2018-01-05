@@ -1,0 +1,8 @@
+{
+  "name": "Mallocco",
+  "app_id": "cba1265e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
